@@ -8,7 +8,7 @@ public class Cat {
     String color;
 
     public Cat() {
-        super();
+        System.out.println("I love mama");
     }
 
     public String meow() {
